@@ -167,7 +167,7 @@ body {
 }
 
 /* Ipad sized plus */
-@media only screen and (max-width: 1200px) and (min-width: 500px) {
+@media only screen and (max-width: 1200px) and (min-width: 600px) {
     .container {
         height: 100vh;
         padding: 40px 60px;  
@@ -314,7 +314,7 @@ body {
 }
 
 /* Mobile view < 375px */
-@media only screen and (max-width: 376px) {
+@media only screen and (max-width: 599px) {
     .container {
         padding: 30px 10px;
         @include overflow(hidden, auto);
