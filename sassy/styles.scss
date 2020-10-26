@@ -324,9 +324,7 @@ body {
              display: grid;
              grid: 550px 300px 550px 300px 550px / 1fr;
              grid-row-gap: 20px;
-             @include border(4px, red);
              .first, .second, .third, .fourth, .fifth {
-                 @include border(3px, blue);
                  .test-box-1, .test-box-5 {
                      .title {
                          img {
