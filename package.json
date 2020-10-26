@@ -1,0 +1,19 @@
+{
+  "name": "testimonials-grid-section",
+  "version": "1.0.0",
+  "description": "\u0016\u0016Your challenge is to build out this testimonials grid section and get it looking as close to the design as possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Medici305/Testimonials-Grid-Section.git"
+  },
+  "author": "Medici",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Medici305/Testimonials-Grid-Section/issues"
+  },
+  "homepage": "https://github.com/Medici305/Testimonials-Grid-Section#readme"
+}
