@@ -267,17 +267,12 @@ body {
     padding: 30px 10px;
     overflow-x: hidden;
     overflow-y: auto;
-    border: 5px solid black;
   }
   .container .main-box {
     height: auto;
     display: grid;
     grid: 550px 300px 550px 300px 550px/1fr;
     grid-row-gap: 20px;
-    border: 4px solid red;
-  }
-  .container .main-box .first, .container .main-box .second, .container .main-box .third, .container .main-box .fourth, .container .main-box .fifth {
-    border: 3px solid blue;
   }
   .container .main-box .first .test-box-1 .title img, .container .main-box .first .test-box-5 .title img, .container .main-box .second .test-box-1 .title img, .container .main-box .second .test-box-5 .title img, .container .main-box .third .test-box-1 .title img, .container .main-box .third .test-box-5 .title img, .container .main-box .fourth .test-box-1 .title img, .container .main-box .fourth .test-box-5 .title img, .container .main-box .fifth .test-box-1 .title img, .container .main-box .fifth .test-box-5 .title img {
     height: 50%;
