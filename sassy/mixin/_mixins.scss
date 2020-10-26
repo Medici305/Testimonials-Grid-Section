@@ -1,0 +1,14 @@
+@mixin border ($length, $color) {
+    border: $length solid $color;
+}
+
+@mixin flex (){
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+@mixin overflow ($overflow-x, $overflow-y) {
+    overflow-x: $overflow-x;
+    overflow-y: $overflow-y;
+}

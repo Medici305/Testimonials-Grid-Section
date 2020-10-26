@@ -1,0 +1,305 @@
+.container .main-box .third .test-box-3 .title-final, .container .main-box .third .test-box-3 .message-final, .container .main-box .third .test-box-3 .description-final, .container .main-box .first .test-box-1 .title, .container .main-box .first .test-box-1 .message, .container .main-box .first .test-box-1 .description, .container .main-box .first .test-box-2 .title, .container .main-box .first .test-box-2 .message, .container .main-box .first .test-box-2 .description, .container .main-box .first .test-box-3 .title, .container .main-box .first .test-box-3 .message, .container .main-box .first .test-box-3 .description, .container .main-box .first .test-box-4 .title, .container .main-box .first .test-box-4 .message, .container .main-box .first .test-box-4 .description, .container .main-box .first .test-box-5 .title, .container .main-box .first .test-box-5 .message, .container .main-box .first .test-box-5 .description, .container .main-box .second .test-box-1 .title, .container .main-box .second .test-box-1 .message, .container .main-box .second .test-box-1 .description, .container .main-box .second .test-box-2 .title, .container .main-box .second .test-box-2 .message, .container .main-box .second .test-box-2 .description, .container .main-box .second .test-box-3 .title, .container .main-box .second .test-box-3 .message, .container .main-box .second .test-box-3 .description, .container .main-box .second .test-box-4 .title, .container .main-box .second .test-box-4 .message, .container .main-box .second .test-box-4 .description, .container .main-box .second .test-box-5 .title, .container .main-box .second .test-box-5 .message, .container .main-box .second .test-box-5 .description, .container .main-box .third .test-box-1 .title, .container .main-box .third .test-box-1 .message, .container .main-box .third .test-box-1 .description, .container .main-box .third .test-box-2 .title, .container .main-box .third .test-box-2 .message, .container .main-box .third .test-box-2 .description, .container .main-box .third .test-box-3 .title, .container .main-box .third .test-box-3 .message, .container .main-box .third .test-box-3 .description, .container .main-box .third .test-box-4 .title, .container .main-box .third .test-box-4 .message, .container .main-box .third .test-box-4 .description, .container .main-box .third .test-box-5 .title, .container .main-box .third .test-box-5 .message, .container .main-box .third .test-box-5 .description, .container .main-box .fourth .test-box-1 .title, .container .main-box .fourth .test-box-1 .message, .container .main-box .fourth .test-box-1 .description, .container .main-box .fourth .test-box-2 .title, .container .main-box .fourth .test-box-2 .message, .container .main-box .fourth .test-box-2 .description, .container .main-box .fourth .test-box-3 .title, .container .main-box .fourth .test-box-3 .message, .container .main-box .fourth .test-box-3 .description, .container .main-box .fourth .test-box-4 .title, .container .main-box .fourth .test-box-4 .message, .container .main-box .fourth .test-box-4 .description, .container .main-box .fourth .test-box-5 .title, .container .main-box .fourth .test-box-5 .message, .container .main-box .fourth .test-box-5 .description, .container .main-box .fifth .test-box-1 .title, .container .main-box .fifth .test-box-1 .message, .container .main-box .fifth .test-box-1 .description, .container .main-box .fifth .test-box-2 .title, .container .main-box .fifth .test-box-2 .message, .container .main-box .fifth .test-box-2 .description, .container .main-box .fifth .test-box-3 .title, .container .main-box .fifth .test-box-3 .message, .container .main-box .fifth .test-box-3 .description, .container .main-box .fifth .test-box-4 .title, .container .main-box .fifth .test-box-4 .message, .container .main-box .fifth .test-box-4 .description, .container .main-box .fifth .test-box-5 .title, .container .main-box .fifth .test-box-5 .message, .container .main-box .fifth .test-box-5 .description, .container .main-box .first .test-box-1, .container .main-box .first .test-box-2, .container .main-box .first .test-box-3, .container .main-box .first .test-box-4, .container .main-box .first .test-box-5, .container .main-box .second .test-box-1, .container .main-box .second .test-box-2, .container .main-box .second .test-box-3, .container .main-box .second .test-box-4, .container .main-box .second .test-box-5, .container .main-box .third .test-box-1, .container .main-box .third .test-box-2, .container .main-box .third .test-box-3, .container .main-box .third .test-box-4, .container .main-box .third .test-box-5, .container .main-box .fourth .test-box-1, .container .main-box .fourth .test-box-2, .container .main-box .fourth .test-box-3, .container .main-box .fourth .test-box-4, .container .main-box .fourth .test-box-5, .container .main-box .fifth .test-box-1, .container .main-box .fifth .test-box-2, .container .main-box .fifth .test-box-3, .container .main-box .fifth .test-box-4, .container .main-box .fifth .test-box-5, .container .main-box .first, .container .main-box .second, .container .main-box .third, .container .main-box .fourth, .container .main-box .fifth, .container {
+  overflow: hidden;
+}
+
+.container .main-box .third, .container .main-box .fourth, .container .main-box .fifth {
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 13px;
+  font-family: Barlow Semi Condensed;
+  font-weight: 400;
+}
+
+body {
+  background-color: #e0f0ff;
+}
+
+/* Container */
+.container {
+  height: 100vh;
+  padding: 80px 120px;
+}
+.container .main-box {
+  height: 100%;
+  display: grid;
+  grid: repeat(2, 1fr)/repeat(4, 1fr);
+  grid-gap: 25px;
+}
+.container .main-box .first, .container .main-box .second, .container .main-box .third, .container .main-box .fourth, .container .main-box .fifth {
+  border-radius: 10px;
+  padding: 10px 40px;
+}
+.container .main-box .first .test-box-1, .container .main-box .first .test-box-2, .container .main-box .first .test-box-3, .container .main-box .first .test-box-4, .container .main-box .first .test-box-5, .container .main-box .second .test-box-1, .container .main-box .second .test-box-2, .container .main-box .second .test-box-3, .container .main-box .second .test-box-4, .container .main-box .second .test-box-5, .container .main-box .third .test-box-1, .container .main-box .third .test-box-2, .container .main-box .third .test-box-3, .container .main-box .third .test-box-4, .container .main-box .third .test-box-5, .container .main-box .fourth .test-box-1, .container .main-box .fourth .test-box-2, .container .main-box .fourth .test-box-3, .container .main-box .fourth .test-box-4, .container .main-box .fourth .test-box-5, .container .main-box .fifth .test-box-1, .container .main-box .fifth .test-box-2, .container .main-box .fifth .test-box-3, .container .main-box .fifth .test-box-4, .container .main-box .fifth .test-box-5 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.container .main-box .first .test-box-1 .title, .container .main-box .first .test-box-1 .message, .container .main-box .first .test-box-1 .description, .container .main-box .first .test-box-2 .title, .container .main-box .first .test-box-2 .message, .container .main-box .first .test-box-2 .description, .container .main-box .first .test-box-3 .title, .container .main-box .first .test-box-3 .message, .container .main-box .first .test-box-3 .description, .container .main-box .first .test-box-4 .title, .container .main-box .first .test-box-4 .message, .container .main-box .first .test-box-4 .description, .container .main-box .first .test-box-5 .title, .container .main-box .first .test-box-5 .message, .container .main-box .first .test-box-5 .description, .container .main-box .second .test-box-1 .title, .container .main-box .second .test-box-1 .message, .container .main-box .second .test-box-1 .description, .container .main-box .second .test-box-2 .title, .container .main-box .second .test-box-2 .message, .container .main-box .second .test-box-2 .description, .container .main-box .second .test-box-3 .title, .container .main-box .second .test-box-3 .message, .container .main-box .second .test-box-3 .description, .container .main-box .second .test-box-4 .title, .container .main-box .second .test-box-4 .message, .container .main-box .second .test-box-4 .description, .container .main-box .second .test-box-5 .title, .container .main-box .second .test-box-5 .message, .container .main-box .second .test-box-5 .description, .container .main-box .third .test-box-1 .title, .container .main-box .third .test-box-1 .message, .container .main-box .third .test-box-1 .description, .container .main-box .third .test-box-2 .title, .container .main-box .third .test-box-2 .message, .container .main-box .third .test-box-2 .description, .container .main-box .third .test-box-3 .title, .container .main-box .third .test-box-3 .message, .container .main-box .third .test-box-3 .description, .container .main-box .third .test-box-4 .title, .container .main-box .third .test-box-4 .message, .container .main-box .third .test-box-4 .description, .container .main-box .third .test-box-5 .title, .container .main-box .third .test-box-5 .message, .container .main-box .third .test-box-5 .description, .container .main-box .fourth .test-box-1 .title, .container .main-box .fourth .test-box-1 .message, .container .main-box .fourth .test-box-1 .description, .container .main-box .fourth .test-box-2 .title, .container .main-box .fourth .test-box-2 .message, .container .main-box .fourth .test-box-2 .description, .container .main-box .fourth .test-box-3 .title, .container .main-box .fourth .test-box-3 .message, .container .main-box .fourth .test-box-3 .description, .container .main-box .fourth .test-box-4 .title, .container .main-box .fourth .test-box-4 .message, .container .main-box .fourth .test-box-4 .description, .container .main-box .fourth .test-box-5 .title, .container .main-box .fourth .test-box-5 .message, .container .main-box .fourth .test-box-5 .description, .container .main-box .fifth .test-box-1 .title, .container .main-box .fifth .test-box-1 .message, .container .main-box .fifth .test-box-1 .description, .container .main-box .fifth .test-box-2 .title, .container .main-box .fifth .test-box-2 .message, .container .main-box .fifth .test-box-2 .description, .container .main-box .fifth .test-box-3 .title, .container .main-box .fifth .test-box-3 .message, .container .main-box .fifth .test-box-3 .description, .container .main-box .fifth .test-box-4 .title, .container .main-box .fifth .test-box-4 .message, .container .main-box .fifth .test-box-4 .description, .container .main-box .fifth .test-box-5 .title, .container .main-box .fifth .test-box-5 .message, .container .main-box .fifth .test-box-5 .description {
+  display: flex;
+  align-items: center;
+}
+.container .main-box .first .test-box-1 .title, .container .main-box .first .test-box-2 .title, .container .main-box .first .test-box-3 .title, .container .main-box .first .test-box-4 .title, .container .main-box .first .test-box-5 .title, .container .main-box .second .test-box-1 .title, .container .main-box .second .test-box-2 .title, .container .main-box .second .test-box-3 .title, .container .main-box .second .test-box-4 .title, .container .main-box .second .test-box-5 .title, .container .main-box .third .test-box-1 .title, .container .main-box .third .test-box-2 .title, .container .main-box .third .test-box-3 .title, .container .main-box .third .test-box-4 .title, .container .main-box .third .test-box-5 .title, .container .main-box .fourth .test-box-1 .title, .container .main-box .fourth .test-box-2 .title, .container .main-box .fourth .test-box-3 .title, .container .main-box .fourth .test-box-4 .title, .container .main-box .fourth .test-box-5 .title, .container .main-box .fifth .test-box-1 .title, .container .main-box .fifth .test-box-2 .title, .container .main-box .fifth .test-box-3 .title, .container .main-box .fifth .test-box-4 .title, .container .main-box .fifth .test-box-5 .title {
+  height: 15%;
+  overflow: hidden;
+}
+.container .main-box .first .test-box-1 .title img, .container .main-box .first .test-box-2 .title img, .container .main-box .first .test-box-3 .title img, .container .main-box .first .test-box-4 .title img, .container .main-box .first .test-box-5 .title img, .container .main-box .second .test-box-1 .title img, .container .main-box .second .test-box-2 .title img, .container .main-box .second .test-box-3 .title img, .container .main-box .second .test-box-4 .title img, .container .main-box .second .test-box-5 .title img, .container .main-box .third .test-box-1 .title img, .container .main-box .third .test-box-2 .title img, .container .main-box .third .test-box-3 .title img, .container .main-box .third .test-box-4 .title img, .container .main-box .third .test-box-5 .title img, .container .main-box .fourth .test-box-1 .title img, .container .main-box .fourth .test-box-2 .title img, .container .main-box .fourth .test-box-3 .title img, .container .main-box .fourth .test-box-4 .title img, .container .main-box .fourth .test-box-5 .title img, .container .main-box .fifth .test-box-1 .title img, .container .main-box .fifth .test-box-2 .title img, .container .main-box .fifth .test-box-3 .title img, .container .main-box .fifth .test-box-4 .title img, .container .main-box .fifth .test-box-5 .title img {
+  border-radius: 100%;
+  border: 2px solid white;
+  height: 100%;
+}
+.container .main-box .first .test-box-1 .title p, .container .main-box .first .test-box-2 .title p, .container .main-box .first .test-box-3 .title p, .container .main-box .first .test-box-4 .title p, .container .main-box .first .test-box-5 .title p, .container .main-box .second .test-box-1 .title p, .container .main-box .second .test-box-2 .title p, .container .main-box .second .test-box-3 .title p, .container .main-box .second .test-box-4 .title p, .container .main-box .second .test-box-5 .title p, .container .main-box .third .test-box-1 .title p, .container .main-box .third .test-box-2 .title p, .container .main-box .third .test-box-3 .title p, .container .main-box .third .test-box-4 .title p, .container .main-box .third .test-box-5 .title p, .container .main-box .fourth .test-box-1 .title p, .container .main-box .fourth .test-box-2 .title p, .container .main-box .fourth .test-box-3 .title p, .container .main-box .fourth .test-box-4 .title p, .container .main-box .fourth .test-box-5 .title p, .container .main-box .fifth .test-box-1 .title p, .container .main-box .fifth .test-box-2 .title p, .container .main-box .fifth .test-box-3 .title p, .container .main-box .fifth .test-box-4 .title p, .container .main-box .fifth .test-box-5 .title p {
+  margin-left: 15px;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.container .main-box .first .test-box-1 .title p span, .container .main-box .first .test-box-2 .title p span, .container .main-box .first .test-box-3 .title p span, .container .main-box .first .test-box-4 .title p span, .container .main-box .first .test-box-5 .title p span, .container .main-box .second .test-box-1 .title p span, .container .main-box .second .test-box-2 .title p span, .container .main-box .second .test-box-3 .title p span, .container .main-box .second .test-box-4 .title p span, .container .main-box .second .test-box-5 .title p span, .container .main-box .third .test-box-1 .title p span, .container .main-box .third .test-box-2 .title p span, .container .main-box .third .test-box-3 .title p span, .container .main-box .third .test-box-4 .title p span, .container .main-box .third .test-box-5 .title p span, .container .main-box .fourth .test-box-1 .title p span, .container .main-box .fourth .test-box-2 .title p span, .container .main-box .fourth .test-box-3 .title p span, .container .main-box .fourth .test-box-4 .title p span, .container .main-box .fourth .test-box-5 .title p span, .container .main-box .fifth .test-box-1 .title p span, .container .main-box .fifth .test-box-2 .title p span, .container .main-box .fifth .test-box-3 .title p span, .container .main-box .fifth .test-box-4 .title p span, .container .main-box .fifth .test-box-5 .title p span {
+  display: block;
+  font-weight: 400;
+}
+.container .main-box .first .test-box-1 .message, .container .main-box .first .test-box-2 .message, .container .main-box .first .test-box-3 .message, .container .main-box .first .test-box-4 .message, .container .main-box .first .test-box-5 .message, .container .main-box .second .test-box-1 .message, .container .main-box .second .test-box-2 .message, .container .main-box .second .test-box-3 .message, .container .main-box .second .test-box-4 .message, .container .main-box .second .test-box-5 .message, .container .main-box .third .test-box-1 .message, .container .main-box .third .test-box-2 .message, .container .main-box .third .test-box-3 .message, .container .main-box .third .test-box-4 .message, .container .main-box .third .test-box-5 .message, .container .main-box .fourth .test-box-1 .message, .container .main-box .fourth .test-box-2 .message, .container .main-box .fourth .test-box-3 .message, .container .main-box .fourth .test-box-4 .message, .container .main-box .fourth .test-box-5 .message, .container .main-box .fifth .test-box-1 .message, .container .main-box .fifth .test-box-2 .message, .container .main-box .fifth .test-box-3 .message, .container .main-box .fifth .test-box-4 .message, .container .main-box .fifth .test-box-5 .message {
+  height: 35%;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+.container .main-box .first .test-box-1 .description, .container .main-box .first .test-box-2 .description, .container .main-box .first .test-box-3 .description, .container .main-box .first .test-box-4 .description, .container .main-box .first .test-box-5 .description, .container .main-box .second .test-box-1 .description, .container .main-box .second .test-box-2 .description, .container .main-box .second .test-box-3 .description, .container .main-box .second .test-box-4 .description, .container .main-box .second .test-box-5 .description, .container .main-box .third .test-box-1 .description, .container .main-box .third .test-box-2 .description, .container .main-box .third .test-box-3 .description, .container .main-box .third .test-box-4 .description, .container .main-box .third .test-box-5 .description, .container .main-box .fourth .test-box-1 .description, .container .main-box .fourth .test-box-2 .description, .container .main-box .fourth .test-box-3 .description, .container .main-box .fourth .test-box-4 .description, .container .main-box .fourth .test-box-5 .description, .container .main-box .fifth .test-box-1 .description, .container .main-box .fifth .test-box-2 .description, .container .main-box .fifth .test-box-3 .description, .container .main-box .fifth .test-box-4 .description, .container .main-box .fifth .test-box-5 .description {
+  height: 40%;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+}
+.container .main-box .first, .container .main-box .second, .container .main-box .fifth {
+  color: white;
+}
+.container .main-box .third, .container .main-box .fourth {
+  background-color: #fff;
+}
+.container .main-box .first {
+  grid-area: 1/1/2/3;
+  background-color: #7541c8;
+}
+.container .main-box .first .test-box-1 {
+  background: url(../images/bg-pattern-quotation.svg) no-repeat top right;
+}
+.container .main-box .second {
+  grid-area: 1/3/2/4;
+  background-color: #48556a;
+}
+.container .main-box .third {
+  grid-area: 1/4/3/5;
+}
+.container .main-box .third .test-box-3 .title-final, .container .main-box .third .test-box-3 .message-final, .container .main-box .third .test-box-3 .description-final {
+  display: flex;
+  align-items: center;
+}
+.container .main-box .third .test-box-3 .title-final {
+  height: 8%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.container .main-box .third .test-box-3 .title-final img {
+  border-radius: 100%;
+  border: 2px solid white;
+  height: 100%;
+}
+.container .main-box .third .test-box-3 .title-final p {
+  margin-left: 15px;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.container .main-box .third .test-box-3 .title-final p span {
+  display: block;
+  font-weight: 400;
+}
+.container .main-box .third .test-box-3 .message-final {
+  height: 15%;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.container .main-box .third .test-box-3 .description-final {
+  height: 70%;
+  font-size: 1.1rem;
+  line-height: 1.42rem;
+}
+.container .main-box .fourth {
+  grid-area: 2/1/3/2;
+}
+.container .main-box .fourth .test-box-4 .message {
+  font-size: 1.6rem;
+}
+.container .main-box .fifth {
+  grid-area: 2/2/3/4;
+  background-color: #19212e;
+}
+
+/* Ipad sized plus */
+@media only screen and (max-width: 1200px) and (min-width: 500px) {
+  .container {
+    height: 100vh;
+    padding: 40px 60px;
+  }
+  .container .main-box {
+    height: 100%;
+    display: grid;
+    grid: repeat(3, 1fr)/repeat(3, 1fr);
+    grid-gap: 15px;
+  }
+  .container .main-box .first, .container .main-box .second, .container .main-box .third, .container .main-box .fourth, .container .main-box .fifth {
+    border-radius: 10px;
+    padding: 10px 30px;
+  }
+  .container .main-box .first .test-box-1, .container .main-box .first .test-box-2, .container .main-box .first .test-box-3, .container .main-box .first .test-box-4, .container .main-box .first .test-box-5, .container .main-box .second .test-box-1, .container .main-box .second .test-box-2, .container .main-box .second .test-box-3, .container .main-box .second .test-box-4, .container .main-box .second .test-box-5, .container .main-box .third .test-box-1, .container .main-box .third .test-box-2, .container .main-box .third .test-box-3, .container .main-box .third .test-box-4, .container .main-box .third .test-box-5, .container .main-box .fourth .test-box-1, .container .main-box .fourth .test-box-2, .container .main-box .fourth .test-box-3, .container .main-box .fourth .test-box-4, .container .main-box .fourth .test-box-5, .container .main-box .fifth .test-box-1, .container .main-box .fifth .test-box-2, .container .main-box .fifth .test-box-3, .container .main-box .fifth .test-box-4, .container .main-box .fifth .test-box-5 {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  .container .main-box .first .test-box-1 .title, .container .main-box .first .test-box-1 .message, .container .main-box .first .test-box-1 .description, .container .main-box .first .test-box-2 .title, .container .main-box .first .test-box-2 .message, .container .main-box .first .test-box-2 .description, .container .main-box .first .test-box-3 .title, .container .main-box .first .test-box-3 .message, .container .main-box .first .test-box-3 .description, .container .main-box .first .test-box-4 .title, .container .main-box .first .test-box-4 .message, .container .main-box .first .test-box-4 .description, .container .main-box .first .test-box-5 .title, .container .main-box .first .test-box-5 .message, .container .main-box .first .test-box-5 .description, .container .main-box .second .test-box-1 .title, .container .main-box .second .test-box-1 .message, .container .main-box .second .test-box-1 .description, .container .main-box .second .test-box-2 .title, .container .main-box .second .test-box-2 .message, .container .main-box .second .test-box-2 .description, .container .main-box .second .test-box-3 .title, .container .main-box .second .test-box-3 .message, .container .main-box .second .test-box-3 .description, .container .main-box .second .test-box-4 .title, .container .main-box .second .test-box-4 .message, .container .main-box .second .test-box-4 .description, .container .main-box .second .test-box-5 .title, .container .main-box .second .test-box-5 .message, .container .main-box .second .test-box-5 .description, .container .main-box .third .test-box-1 .title, .container .main-box .third .test-box-1 .message, .container .main-box .third .test-box-1 .description, .container .main-box .third .test-box-2 .title, .container .main-box .third .test-box-2 .message, .container .main-box .third .test-box-2 .description, .container .main-box .third .test-box-3 .title, .container .main-box .third .test-box-3 .message, .container .main-box .third .test-box-3 .description, .container .main-box .third .test-box-4 .title, .container .main-box .third .test-box-4 .message, .container .main-box .third .test-box-4 .description, .container .main-box .third .test-box-5 .title, .container .main-box .third .test-box-5 .message, .container .main-box .third .test-box-5 .description, .container .main-box .fourth .test-box-1 .title, .container .main-box .fourth .test-box-1 .message, .container .main-box .fourth .test-box-1 .description, .container .main-box .fourth .test-box-2 .title, .container .main-box .fourth .test-box-2 .message, .container .main-box .fourth .test-box-2 .description, .container .main-box .fourth .test-box-3 .title, .container .main-box .fourth .test-box-3 .message, .container .main-box .fourth .test-box-3 .description, .container .main-box .fourth .test-box-4 .title, .container .main-box .fourth .test-box-4 .message, .container .main-box .fourth .test-box-4 .description, .container .main-box .fourth .test-box-5 .title, .container .main-box .fourth .test-box-5 .message, .container .main-box .fourth .test-box-5 .description, .container .main-box .fifth .test-box-1 .title, .container .main-box .fifth .test-box-1 .message, .container .main-box .fifth .test-box-1 .description, .container .main-box .fifth .test-box-2 .title, .container .main-box .fifth .test-box-2 .message, .container .main-box .fifth .test-box-2 .description, .container .main-box .fifth .test-box-3 .title, .container .main-box .fifth .test-box-3 .message, .container .main-box .fifth .test-box-3 .description, .container .main-box .fifth .test-box-4 .title, .container .main-box .fifth .test-box-4 .message, .container .main-box .fifth .test-box-4 .description, .container .main-box .fifth .test-box-5 .title, .container .main-box .fifth .test-box-5 .message, .container .main-box .fifth .test-box-5 .description {
+    display: flex;
+    align-items: center;
+  }
+  .container .main-box .first .test-box-1 .title, .container .main-box .first .test-box-2 .title, .container .main-box .first .test-box-3 .title, .container .main-box .first .test-box-4 .title, .container .main-box .first .test-box-5 .title, .container .main-box .second .test-box-1 .title, .container .main-box .second .test-box-2 .title, .container .main-box .second .test-box-3 .title, .container .main-box .second .test-box-4 .title, .container .main-box .second .test-box-5 .title, .container .main-box .third .test-box-1 .title, .container .main-box .third .test-box-2 .title, .container .main-box .third .test-box-3 .title, .container .main-box .third .test-box-4 .title, .container .main-box .third .test-box-5 .title, .container .main-box .fourth .test-box-1 .title, .container .main-box .fourth .test-box-2 .title, .container .main-box .fourth .test-box-3 .title, .container .main-box .fourth .test-box-4 .title, .container .main-box .fourth .test-box-5 .title, .container .main-box .fifth .test-box-1 .title, .container .main-box .fifth .test-box-2 .title, .container .main-box .fifth .test-box-3 .title, .container .main-box .fifth .test-box-4 .title, .container .main-box .fifth .test-box-5 .title {
+    height: 15%;
+    overflow: hidden;
+  }
+  .container .main-box .first .test-box-1 .title img, .container .main-box .first .test-box-2 .title img, .container .main-box .first .test-box-3 .title img, .container .main-box .first .test-box-4 .title img, .container .main-box .first .test-box-5 .title img, .container .main-box .second .test-box-1 .title img, .container .main-box .second .test-box-2 .title img, .container .main-box .second .test-box-3 .title img, .container .main-box .second .test-box-4 .title img, .container .main-box .second .test-box-5 .title img, .container .main-box .third .test-box-1 .title img, .container .main-box .third .test-box-2 .title img, .container .main-box .third .test-box-3 .title img, .container .main-box .third .test-box-4 .title img, .container .main-box .third .test-box-5 .title img, .container .main-box .fourth .test-box-1 .title img, .container .main-box .fourth .test-box-2 .title img, .container .main-box .fourth .test-box-3 .title img, .container .main-box .fourth .test-box-4 .title img, .container .main-box .fourth .test-box-5 .title img, .container .main-box .fifth .test-box-1 .title img, .container .main-box .fifth .test-box-2 .title img, .container .main-box .fifth .test-box-3 .title img, .container .main-box .fifth .test-box-4 .title img, .container .main-box .fifth .test-box-5 .title img {
+    border-radius: 100%;
+    border: 2px solid white;
+    height: 100%;
+  }
+  .container .main-box .first .test-box-1 .title p, .container .main-box .first .test-box-2 .title p, .container .main-box .first .test-box-3 .title p, .container .main-box .first .test-box-4 .title p, .container .main-box .first .test-box-5 .title p, .container .main-box .second .test-box-1 .title p, .container .main-box .second .test-box-2 .title p, .container .main-box .second .test-box-3 .title p, .container .main-box .second .test-box-4 .title p, .container .main-box .second .test-box-5 .title p, .container .main-box .third .test-box-1 .title p, .container .main-box .third .test-box-2 .title p, .container .main-box .third .test-box-3 .title p, .container .main-box .third .test-box-4 .title p, .container .main-box .third .test-box-5 .title p, .container .main-box .fourth .test-box-1 .title p, .container .main-box .fourth .test-box-2 .title p, .container .main-box .fourth .test-box-3 .title p, .container .main-box .fourth .test-box-4 .title p, .container .main-box .fourth .test-box-5 .title p, .container .main-box .fifth .test-box-1 .title p, .container .main-box .fifth .test-box-2 .title p, .container .main-box .fifth .test-box-3 .title p, .container .main-box .fifth .test-box-4 .title p, .container .main-box .fifth .test-box-5 .title p {
+    margin-left: 15px;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+  .container .main-box .first .test-box-1 .title p span, .container .main-box .first .test-box-2 .title p span, .container .main-box .first .test-box-3 .title p span, .container .main-box .first .test-box-4 .title p span, .container .main-box .first .test-box-5 .title p span, .container .main-box .second .test-box-1 .title p span, .container .main-box .second .test-box-2 .title p span, .container .main-box .second .test-box-3 .title p span, .container .main-box .second .test-box-4 .title p span, .container .main-box .second .test-box-5 .title p span, .container .main-box .third .test-box-1 .title p span, .container .main-box .third .test-box-2 .title p span, .container .main-box .third .test-box-3 .title p span, .container .main-box .third .test-box-4 .title p span, .container .main-box .third .test-box-5 .title p span, .container .main-box .fourth .test-box-1 .title p span, .container .main-box .fourth .test-box-2 .title p span, .container .main-box .fourth .test-box-3 .title p span, .container .main-box .fourth .test-box-4 .title p span, .container .main-box .fourth .test-box-5 .title p span, .container .main-box .fifth .test-box-1 .title p span, .container .main-box .fifth .test-box-2 .title p span, .container .main-box .fifth .test-box-3 .title p span, .container .main-box .fifth .test-box-4 .title p span, .container .main-box .fifth .test-box-5 .title p span {
+    display: block;
+    font-weight: 400;
+  }
+  .container .main-box .first .test-box-1 .message, .container .main-box .first .test-box-2 .message, .container .main-box .first .test-box-3 .message, .container .main-box .first .test-box-4 .message, .container .main-box .first .test-box-5 .message, .container .main-box .second .test-box-1 .message, .container .main-box .second .test-box-2 .message, .container .main-box .second .test-box-3 .message, .container .main-box .second .test-box-4 .message, .container .main-box .second .test-box-5 .message, .container .main-box .third .test-box-1 .message, .container .main-box .third .test-box-2 .message, .container .main-box .third .test-box-3 .message, .container .main-box .third .test-box-4 .message, .container .main-box .third .test-box-5 .message, .container .main-box .fourth .test-box-1 .message, .container .main-box .fourth .test-box-2 .message, .container .main-box .fourth .test-box-3 .message, .container .main-box .fourth .test-box-4 .message, .container .main-box .fourth .test-box-5 .message, .container .main-box .fifth .test-box-1 .message, .container .main-box .fifth .test-box-2 .message, .container .main-box .fifth .test-box-3 .message, .container .main-box .fifth .test-box-4 .message, .container .main-box .fifth .test-box-5 .message {
+    height: 30%;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+  .container .main-box .first .test-box-1 .description, .container .main-box .first .test-box-2 .description, .container .main-box .first .test-box-3 .description, .container .main-box .first .test-box-4 .description, .container .main-box .first .test-box-5 .description, .container .main-box .second .test-box-1 .description, .container .main-box .second .test-box-2 .description, .container .main-box .second .test-box-3 .description, .container .main-box .second .test-box-4 .description, .container .main-box .second .test-box-5 .description, .container .main-box .third .test-box-1 .description, .container .main-box .third .test-box-2 .description, .container .main-box .third .test-box-3 .description, .container .main-box .third .test-box-4 .description, .container .main-box .third .test-box-5 .description, .container .main-box .fourth .test-box-1 .description, .container .main-box .fourth .test-box-2 .description, .container .main-box .fourth .test-box-3 .description, .container .main-box .fourth .test-box-4 .description, .container .main-box .fourth .test-box-5 .description, .container .main-box .fifth .test-box-1 .description, .container .main-box .fifth .test-box-2 .description, .container .main-box .fifth .test-box-3 .description, .container .main-box .fifth .test-box-4 .description, .container .main-box .fifth .test-box-5 .description {
+    height: 45%;
+    font-size: 0.7rem;
+    line-height: 1.4rem;
+  }
+  .container .main-box .first, .container .main-box .second, .container .main-box .fifth {
+    color: white;
+  }
+  .container .main-box .third, .container .main-box .fourth {
+    background-color: #fff;
+  }
+  .container .main-box .first {
+    grid-area: 1/1/2/3;
+    background-color: #7541c8;
+  }
+  .container .main-box .first .test-box-1 {
+    background: url(../images/bg-pattern-quotation.svg) no-repeat top right;
+  }
+  .container .main-box .second {
+    grid-area: 1/3/2/4;
+    background-color: #48556a;
+  }
+  .container .main-box .third {
+    grid-area: 3/1/4/4;
+  }
+  .container .main-box .third .test-box-3 .title-final, .container .main-box .third .test-box-3 .message-final, .container .main-box .third .test-box-3 .description-final {
+    display: flex;
+    align-items: center;
+  }
+  .container .main-box .third .test-box-3 .title-final {
+    height: 15%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+  }
+  .container .main-box .third .test-box-3 .title-final img {
+    border-radius: 100%;
+    border: 2px solid white;
+    height: 100%;
+  }
+  .container .main-box .third .test-box-3 .title-final p {
+    margin-left: 15px;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+  .container .main-box .third .test-box-3 .title-final p span {
+    display: block;
+    font-weight: 400;
+  }
+  .container .main-box .third .test-box-3 .message-final {
+    height: 15%;
+    font-size: 1rem;
+    font-weight: 600;
+  }
+  .container .main-box .third .test-box-3 .description-final {
+    height: 65%;
+    font-size: 0.9rem;
+    line-height: 1.42rem;
+  }
+  .container .main-box .fourth {
+    grid-area: 2/1/3/2;
+  }
+  .container .main-box .fourth .test-box-4 .message {
+    font-size: 1rem;
+  }
+  .container .main-box .fifth {
+    grid-area: 2/2/3/4;
+    background-color: #19212e;
+  }
+}
+/* Mobile view < 375px */
+@media only screen and (max-width: 376px) {
+  .container {
+    padding: 30px 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: 5px solid black;
+  }
+  .container .main-box {
+    height: auto;
+    display: grid;
+    grid: 550px 300px 550px 300px 550px/1fr;
+    grid-row-gap: 20px;
+    border: 4px solid red;
+  }
+  .container .main-box .first, .container .main-box .second, .container .main-box .third, .container .main-box .fourth, .container .main-box .fifth {
+    border: 3px solid blue;
+  }
+  .container .main-box .first .test-box-1 .title img, .container .main-box .first .test-box-5 .title img, .container .main-box .second .test-box-1 .title img, .container .main-box .second .test-box-5 .title img, .container .main-box .third .test-box-1 .title img, .container .main-box .third .test-box-5 .title img, .container .main-box .fourth .test-box-1 .title img, .container .main-box .fourth .test-box-5 .title img, .container .main-box .fifth .test-box-1 .title img, .container .main-box .fifth .test-box-5 .title img {
+    height: 50%;
+  }
+  .container .main-box .first {
+    grid-area: 1/1/2/2;
+  }
+  .container .main-box .second {
+    grid-area: 2/1/3/2;
+  }
+  .container .main-box .third {
+    grid-area: 3/1/4/2;
+  }
+  .container .main-box .fourth {
+    grid-area: 4/1/5/2;
+  }
+  .container .main-box .fifth {
+    grid-area: 5/1/6/2;
+  }
+}
+.zoom {
+  transform: translateZ(100px);
+}
+
+/*# sourceMappingURL=styles.css.map */
